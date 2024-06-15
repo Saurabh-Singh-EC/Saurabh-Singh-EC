@@ -1,4 +1,4 @@
-## 👋 Hey there, Welcome Happy to see you here.
+## 👋 Hey there, Welcome. Happy to see you here.
 * 🧔 I'm Saurabh Singh, I am from India but currently living in Switzerland.
 * 🔭 I’m mainly backend engineer and currently working on Java, building and deploying microservices on Kubernetes cluster.
 * 📰  Building an app to make the life easy by providing online booking system for laundry management [Book Your Slot](https://github.com/Saurabh-Singh-EC/Book_Your_Slot_Final)
